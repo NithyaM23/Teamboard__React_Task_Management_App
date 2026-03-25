@@ -6,27 +6,27 @@ TeamBoard is a simple and clean task management web application built using **Re
 
 ## Features
 
-Create multiple boards
-Add multiple lists(To Do, In Progress, Done)
-Add, edit and delete tasks
-Set due dates for tasks
-Mark tasks as completed
-Highlight overdue tasks
-Add labels(Bug, Feature, Design, Research)
-Search tasks
-Drag and drop tasks between lists
-Sort tasks(Priority, Due Date, Alphabetical)
-Data persistence using LocalStorage
+- Create multiple boards
+- Add multiple lists(To Do, In Progress, Done)
+- Add, edit and delete tasks
+- Set due dates for tasks
+- Mark tasks as completed
+- Highlight overdue tasks
+- Add labels(Bug, Feature, Design, Research)
+- Search tasks
+- Drag and drop tasks between lists
+- Sort tasks(Priority, Due Date, Alphabetical)
+- Data persistence using LocalStorage
 
 ---
 
 ## Tech Stack
 
-Frontend: React(Vite)
-Routing: React Router
-Drag & Drop: @hello-pangea/dnd
-Icons: React Icons
-Storage: LocalStorage
+- Frontend: React(Vite)
+- Routing: React Router
+- Drag & Drop: @hello-pangea/dnd
+- Icons: React Icons
+- Storage: LocalStorage
 
 ---
 
